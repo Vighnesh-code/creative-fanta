@@ -1,10 +1,10 @@
 import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <main className="overflow-x-hidden">
-      <Navbar />
+      {/* <Navbar /> */}
       <Hero />
     </main>
   );

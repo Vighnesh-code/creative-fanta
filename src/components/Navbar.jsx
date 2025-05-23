@@ -32,7 +32,7 @@ const NavbarMenu = [
 
 const Navbar = () => {
   return (
-    <div className="text-white py-8 bg-orange-500">
+    <div className="text-white py-8">
       <div className="container flex justify-between items-center">
         {/* logo section */}
         <div>
